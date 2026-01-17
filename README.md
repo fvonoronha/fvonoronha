@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Fabio+Vitor&section=header&textBg=false&desc=Tecnologia,%20dados%20e%20impacto%20social&descAlign=50&descAlignY=50&descSize=20&fontSize=70&fontAlignY=30" alt="Fabio Vitor"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:ad4895,50:e54b30,100:cb0812&text=Fabio+Vitor&section=header&textBg=false&desc=Tecnologia,+dados+e+impacto+social&descAlign=50&descAlignY=50&descSize=20&fontSize=70&fontAlignY=30&fontColor=ffffff" alt="Fabio Vitor"/>
 </p>
 
 # 👋 Olá, eu sou o Fabio Vitor
@@ -168,17 +168,6 @@ Se quiser conhecer mais sobre meus projetos ou conversar sobre tecnologia e impa
 
 > Acredito na tecnologia como instrumento capaz de transformar dados em decisões que beneficiam pessoas e comunidades.
 
-<!--
-**fvonoronha/fvonoronha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=100:ad4895,50:e54b30,0:cb0812&section=footer&desc=@fvonoronha&textBg=false&descAlign=50&descAlignY=80&fontAlignY=30&fontColor=ffffff" alt="Fabio Vitor"/>
+</p>
