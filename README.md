@@ -157,7 +157,7 @@ Além de desenvolver, coloco os sistemas no ar e mantenho tudo funcionando com e
 
 - **[pg-arca](https://github.com/fvonoronha/pg-arca):** backup automático e cifrado de PostgreSQL para qualquer nuvem (S3, Cloudflare R2, disco local ou dezenas de serviços via rclone), com um container e um `.env`
 - **[bucket-arca](https://github.com/fvonoronha/bucket-arca):** backup agendado de buckets, com espelho incremental, histórico de versões e snapshots cifrados
-- **Plataforma da FEAL:** sistema completo para uma instituição, com [site institucional](https://feal.espirita.casa), [biblioteca com acervo e empréstimos](https://biblioteca.feal.espirita.casa), painel administrativo e [página de status](https://status.feal.espirita.casa)
+- **Plataforma da FEAL:** sistema completo para uma instituição, com [site institucional](https://feal.espirita.casa), [biblioteca com acervo e empréstimos](https://biblioteca.feal.espirita.casa), [loja online](https://livraria.feal.espirita.casa) com Pix e cartão via Mercado Pago, painel administrativo e [página de status](https://status.feal.espirita.casa)
 
 ## 📌 Experiência e Formação
 - 🎓 **Ciência da Computação** (Universidade Federal de Roraima - UFRR) e pós-graduações em **Banco de Dados, Big Data e Segurança da Informação**
